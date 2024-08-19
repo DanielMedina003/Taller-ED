@@ -6,7 +6,7 @@ public class EJ9 {
         int n = Integer.parseInt(JOptionPane.showInputDialog("Digite un numero"));
         int i = 1;
 
-        while (n<=10) {
+        while (i<=10) {
 
             int resultado = n*i;
             i++;
