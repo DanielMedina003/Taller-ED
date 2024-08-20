@@ -8,10 +8,8 @@ public class EJ9 {
 
         while (i<=10) {
 
-            int resultado = n*i;
+            System.out.println(n+ "x" +i+ "=" + (n*i));
             i++;
-            
-            System.out.println("la tabla de multiplicar del numero "+n+ "es: " + resultado);
             
         }
     }
